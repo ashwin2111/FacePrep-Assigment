@@ -1,0 +1,31 @@
+.wrapper {
+  width: 1240px;
+}
+.profile {
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+}
+.name-person {
+  font-size: 20px;
+  font-weight: 500;
+  padding-right: 26px;
+  padding-top: 5px;
+  width: 20%;
+}
+
+img {
+  border-radius: 50%;
+  height: 40px;
+}
+.search {
+  display: flex;
+  width: 20%;
+  margin: auto;
+  padding-top: 20px;
+}
+.logoutIcon {
+  margin: auto;
+  padding-left: 50px;
+  cursor: pointer;
+}

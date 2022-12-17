@@ -1,0 +1,70 @@
+.main {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding-top: 50px;
+  height: 435px;
+}
+.sub-main {
+  display: flex;
+  justify-content: center;
+  width: 35%;
+  box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+  border-radius: 60px;
+  background-color: white;
+}
+.imgs {
+  padding-top: 20px;
+  justify-content: center;
+  display: flex;
+}
+.container-image {
+  background-color: rgb(223, 221, 221);
+  border-radius: 150px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 115px;
+  width: 115px;
+}
+
+input {
+  width: 300px;
+  height: 50px;
+  border-radius: 60px;
+  box-shadow: inset 0px 0px 25px 0px #888;
+  border: none;
+  outline: none;
+  background-color: #fff;
+}
+
+.name {
+  padding-left: 60px;
+  font-size: 16px;
+  width: 70%;
+  padding-top: 0.5px;
+}
+.second-input {
+  padding-top: 20px;
+}
+
+button {
+  width: 380px;
+  height: 50px;
+  border-radius: 60px;
+  background-color: #b103fc;
+  color: white;
+  font-size: 25px;
+  border: none;
+}
+.login-button {
+  padding-top: 25px;
+}
+
+.link {
+  font-size: 25px;
+  font-weight: 400;
+}
+a {
+  color: blue;
+}
